@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 28 05:40:36 ICT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-5754-d3d9-00000f266270 
+on database directory C:\Users\Anh-Tu\Dropbox\First Semester - Forth Year\Viettel\Viettel Cyber Security\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4247093b 
+Loaded from file:/C:/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Anh-Tu\Dropbox\First Semester - Forth Year\Viettel\Viettel Cyber Security
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
